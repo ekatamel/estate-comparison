@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/estate-comparison/static/css/main.65f2dbe0.css",
+    "main.js": "/estate-comparison/static/js/main.ed17773f.js",
+    "index.html": "/estate-comparison/index.html",
+    "main.65f2dbe0.css.map": "/estate-comparison/static/css/main.65f2dbe0.css.map",
+    "main.ed17773f.js.map": "/estate-comparison/static/js/main.ed17773f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65f2dbe0.css",
+    "static/js/main.ed17773f.js"
+  ]
+}
